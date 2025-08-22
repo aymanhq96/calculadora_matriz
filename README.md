@@ -14,7 +14,7 @@ Una calculadora de matrices implementada completamente en Python sin usar librer
   - Multiplicación
 
 - **Operaciones con una sola matriz:**
-  - Transpuesta
+  - Traspuesta
   - Determinante
 
 - Entrada de matrices mediante texto:
